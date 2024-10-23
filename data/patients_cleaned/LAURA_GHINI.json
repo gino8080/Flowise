@@ -1,0 +1,91 @@
+{
+  "name": "LAURA",
+  "surname": "GHINI",
+  "birth_date": "1977-01-10",
+  "gender": "M",
+  "fiscal_code": "LAULVC76A10H501V",
+  "addresses": [
+    {
+      "class": "Residenza",
+      "street": "VIA FONTANA MANCINA, 22/A",
+      "street_number": "22 A",
+      "zip": "00060",
+      "ts": "2023-12-05 18:02:38",
+      "class_label": {
+        "label": "residenza"
+      },
+      "city": {
+        "location": "Sacrofano",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58093",
+        "codcadastre": "H658",
+        "province_abbreviation": "RM",
+        "zip": "00060",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "3",
+        "altitude": "260.000",
+        "iscoastal": "0",
+        "codmountain": "NM",
+        "surface": " 28,43 ",
+        "population2011": "5.691",
+        "phone_prefix": "6",
+        "label": "Sacrofano",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    },
+    {
+      "class": "Domicilio",
+      "street": "VIA FONTANA MANCINA N",
+      "street_number": "22 A",
+      "ts": "2023-12-05 18:02:38",
+      "class_label": {
+        "label": "domicilio"
+      },
+      "city": {
+        "location": "Sacrofano",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58093",
+        "codcadastre": "H658",
+        "province_abbreviation": "RM",
+        "zip": "00060",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "3",
+        "altitude": "260.000",
+        "iscoastal": "0",
+        "codmountain": "NM",
+        "surface": " 28,43 ",
+        "population2011": "5.691",
+        "phone_prefix": "6",
+        "label": "Sacrofano",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    }
+  ],
+  "info": {
+    "details": {
+      "residence_asl_code": "120204"
+    }
+  },
+  "birthNation": {
+    "abbreviation": "LY",
+    "name": "Libia",
+    "name_en": "Libyan Arab Jamahiriya",
+    "label": "Libia"
+  },
+  "id": "LAURA_GHINI.json",
+  "fileName": "LAURA_GHINI.json"
+}

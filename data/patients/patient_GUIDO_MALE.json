@@ -1,0 +1,202 @@
+{
+    "id": 509,
+    "name": "GUIDO",
+    "surname": "MALE",
+    "name_normalized": null,
+    "surname_normalized": null,
+    "birth_date": "1977-01-10",
+    "death_date": null,
+    "gender": "M",
+    "birth_city": null,
+    "fiscal_code": "GDDPLT76A10H501V",
+    "birth_nation": 431,
+    "citizenship": 100,
+    "residence_asl": null,
+    "marital_status": null,
+    "qualification": null,
+    "professional_status": null,
+    "activities_branch": null,
+    "professional_position": null,
+    "created_at": 1701682673,
+    "updated_at": 1701682766,
+    "language": null,
+    "history_old_person": null,
+    "note_force_update": null,
+    "privacy_details": null,
+    "is_temporary": null,
+    "addresses": [
+        {
+            "id": 223,
+            "class": "Domicilio",
+            "street": "VIA FONTANA MANCINA N",
+            "street_number": "22 A",
+            "zip": null,
+            "idcity": 4853,
+            "city_foreign": null,
+            "ts": "2023-12-04 09:37:53",
+            "country": 100,
+            "class_label": {
+                "label": "domicilio"
+            },
+            "city": {
+                "id": 4853,
+                "id_region": 12,
+                "id_province": 58,
+                "location": "Sacrofano",
+                "idstat": 93,
+                "geographic_zone": "Centro",
+                "codnuts2": "ITI4",
+                "codnuts3": "ITI43",
+                "codmetropolis": "258",
+                "codistat": "58093",
+                "codcadastre": "H658",
+                "province_abbreviation": "RM",
+                "zip": "00060",
+                "codregion": "LAZ",
+                "isprovince": "0",
+                "altimetric_area": "3",
+                "altitude": "260.000",
+                "iscoastal": "0",
+                "codmountain": "NM",
+                "surface": " 28,43 ",
+                "population2011": "5.691",
+                "phone_prefix": "6",
+                "code_asl_district": null,
+                "details": null,
+                "istat_code_2016": null,
+                "istat_code_2009": null,
+                "istat_code_2005": null,
+                "label": "Sacrofano",
+                "region": {
+                    "id": 12,
+                    "region": "Lazio",
+                    "label": "Lazio"
+                }
+            }
+        },
+        {
+            "id": 224,
+            "class": "Residenza",
+            "street": "Indirizzo città straniera 431",
+            "street_number": "22 A",
+            "zip": "00060",
+            "idcity": 4853,
+            "city_foreign": null,
+            "ts": "2023-12-04 09:39:26",
+            "country": 431,
+            "class_label": {
+                "label": "residenza"
+            },
+            "city": {
+                "id": 4853,
+                "id_region": 12,
+                "id_province": 58,
+                "location": "Sacrofano",
+                "idstat": 93,
+                "geographic_zone": "Centro",
+                "codnuts2": "ITI4",
+                "codnuts3": "ITI43",
+                "codmetropolis": "258",
+                "codistat": "58093",
+                "codcadastre": "H658",
+                "province_abbreviation": "RM",
+                "zip": "00060",
+                "codregion": "LAZ",
+                "isprovince": "0",
+                "altimetric_area": "3",
+                "altitude": "260.000",
+                "iscoastal": "0",
+                "codmountain": "NM",
+                "surface": " 28,43 ",
+                "population2011": "5.691",
+                "phone_prefix": "6",
+                "code_asl_district": null,
+                "details": null,
+                "istat_code_2016": null,
+                "istat_code_2009": null,
+                "istat_code_2005": null,
+                "label": "Sacrofano",
+                "region": {
+                    "id": 12,
+                    "region": "Lazio",
+                    "label": "Lazio"
+                }
+            }
+        }
+    ],
+    "contacts": [],
+    "info": {
+        "id": 152,
+        "idperson": 509,
+        "citizenship": {
+            "id": 100,
+            "idcontinent": 1,
+            "idarea": 0,
+            "abbreviation": "IT",
+            "name": "Italia",
+            "name_en": "Italy",
+            "details": null,
+            "label": "Italia"
+        },
+        "residence_asl": null,
+        "marital_status": {
+            "id": 31,
+            "idparent": null,
+            "class": "marital_status",
+            "label": "Separato/a",
+            "sort": null,
+            "options": {
+                "codeADT": "3"
+            },
+            "option_value": "3"
+        },
+        "qualification": {
+            "id": 25,
+            "idparent": null,
+            "class": "qualification",
+            "label": "Diploma di scuola media superiore",
+            "sort": null,
+            "options": {
+                "codeADT": "3"
+            },
+            "option_value": "3"
+        },
+        "professional_status": {
+            "id": 48,
+            "idparent": null,
+            "class": "professional_status",
+            "label": "Disoccupato",
+            "sort": null,
+            "options": {
+                "codeADT": "2"
+            },
+            "option_value": "2"
+        },
+        "activities_branch": null,
+        "professional_position": null,
+        "created_at": 1701682673,
+        "updated_at": 1701682766,
+        "id_hero": null,
+        "id_mpi": null,
+        "details": {
+            "ssn": [],
+            "paziente_cod_distr_res": []
+        },
+        "ticket": null,
+        "international_mobility": null,
+        "id_asur": null,
+        "district": null
+    },
+    "birthNation": {
+        "id": 431,
+        "idcontinent": 2,
+        "idarea": 0,
+        "abbreviation": "LY",
+        "name": "Libia",
+        "name_en": "Libyan Arab Jamahiriya",
+        "details": null,
+        "label": "Libia"
+    },
+    "birthCity": null,
+    "employe": null
+}

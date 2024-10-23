@@ -1,0 +1,139 @@
+{
+  "name": "MICHELE",
+  "surname": "SANTORO",
+  "birth_date": "2000-10-13",
+  "gender": "F",
+  "fiscal_code": "MICLNT05P53D972U",
+  "addresses": [
+    {
+      "class": "Residenza",
+      "street": "NICCOLO TOMMASEO",
+      "street_number": "18",
+      "zip": "00047",
+      "ts": "2023-12-11 18:12:55",
+      "class_label": {
+        "label": "residenza"
+      },
+      "city": {
+        "location": "Marino",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58057",
+        "codcadastre": "E958",
+        "province_abbreviation": "RM",
+        "zip": "00047",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "4",
+        "altitude": "360.000",
+        "iscoastal": "0",
+        "codmountain": "P",
+        "surface": " 24,19 ",
+        "population2011": "32.706",
+        "phone_prefix": "6",
+        "label": "Marino",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    },
+    {
+      "class": "Domicilio",
+      "street": "NICCOLO TOMMASEO",
+      "street_number": "18",
+      "zip": "00047",
+      "ts": "2023-12-11 18:12:55",
+      "class_label": {
+        "label": "domicilio"
+      },
+      "city": {
+        "location": "Marino",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58057",
+        "codcadastre": "E958",
+        "province_abbreviation": "RM",
+        "zip": "00047",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "4",
+        "altitude": "360.000",
+        "iscoastal": "0",
+        "codmountain": "P",
+        "surface": " 24,19 ",
+        "population2011": "32.706",
+        "phone_prefix": "6",
+        "label": "Marino",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "class": "phone",
+      "value": "3441649530",
+      "ts": "2023-12-11 18:12:55"
+    }
+  ],
+  "info": {
+    "marital_status": {
+      "class": "marital_status",
+      "label": "Celibe/Nubile",
+      "options": {
+        "codeADT": "1"
+      },
+      "option_value": "1"
+    },
+    "professional_status": {
+      "class": "professional_status",
+      "label": "Studente",
+      "options": {
+        "codeADT": "4"
+      },
+      "option_value": "4"
+    },
+    "id_hero": "H202300M",
+    "id_mpi": "8159535M"
+  },
+  "birthNation": {
+    "abbreviation": "IT",
+    "name": "Italia",
+    "name_en": "Italy",
+    "label": "Italia"
+  },
+  "birthCity": {
+    "location": "Genzano di Roma",
+    "geographic_zone": "Centro",
+    "codnuts2": "ITI4",
+    "codnuts3": "ITI43",
+    "codmetropolis": "258",
+    "codistat": "58043",
+    "codcadastre": "D972",
+    "province_abbreviation": "RM",
+    "zip": "00045",
+    "codregion": "LAZ",
+    "isprovince": "0",
+    "altimetric_area": "4",
+    "altitude": "435.000",
+    "iscoastal": "0",
+    "codmountain": "NM",
+    "surface": " 17,90 ",
+    "population2011": "22.178",
+    "phone_prefix": "6",
+    "label": "Genzano di Roma",
+    "region": {
+      "region": "Lazio",
+      "label": "Lazio"
+    }
+  },
+  "id": "MICHELE_SANTORO.json",
+  "fileName": "MICHELE_SANTORO.json"
+}

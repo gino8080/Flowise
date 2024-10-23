@@ -1,0 +1,118 @@
+{
+  "name": "GUIDO",
+  "surname": "MALE",
+  "birth_date": "1977-01-10",
+  "gender": "M",
+  "fiscal_code": "GDDPLT76A10H501V",
+  "addresses": [
+    {
+      "class": "Domicilio",
+      "street": "VIA FONTANA MANCINA N",
+      "street_number": "22 A",
+      "ts": "2023-12-04 09:37:53",
+      "class_label": {
+        "label": "domicilio"
+      },
+      "city": {
+        "location": "Sacrofano",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58093",
+        "codcadastre": "H658",
+        "province_abbreviation": "RM",
+        "zip": "00060",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "3",
+        "altitude": "260.000",
+        "iscoastal": "0",
+        "codmountain": "NM",
+        "surface": " 28,43 ",
+        "population2011": "5.691",
+        "phone_prefix": "6",
+        "label": "Sacrofano",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    },
+    {
+      "class": "Residenza",
+      "street": "Indirizzo città straniera 431",
+      "street_number": "22 A",
+      "zip": "00060",
+      "ts": "2023-12-04 09:39:26",
+      "class_label": {
+        "label": "residenza"
+      },
+      "city": {
+        "location": "Sacrofano",
+        "geographic_zone": "Centro",
+        "codnuts2": "ITI4",
+        "codnuts3": "ITI43",
+        "codmetropolis": "258",
+        "codistat": "58093",
+        "codcadastre": "H658",
+        "province_abbreviation": "RM",
+        "zip": "00060",
+        "codregion": "LAZ",
+        "isprovince": "0",
+        "altimetric_area": "3",
+        "altitude": "260.000",
+        "iscoastal": "0",
+        "codmountain": "NM",
+        "surface": " 28,43 ",
+        "population2011": "5.691",
+        "phone_prefix": "6",
+        "label": "Sacrofano",
+        "region": {
+          "region": "Lazio",
+          "label": "Lazio"
+        }
+      }
+    }
+  ],
+  "info": {
+    "citizenship": {
+      "abbreviation": "IT",
+      "name": "Italia",
+      "name_en": "Italy",
+      "label": "Italia"
+    },
+    "marital_status": {
+      "class": "marital_status",
+      "label": "Separato/a",
+      "options": {
+        "codeADT": "3"
+      },
+      "option_value": "3"
+    },
+    "qualification": {
+      "class": "qualification",
+      "label": "Diploma di scuola media superiore",
+      "options": {
+        "codeADT": "3"
+      },
+      "option_value": "3"
+    },
+    "professional_status": {
+      "class": "professional_status",
+      "label": "Disoccupato",
+      "options": {
+        "codeADT": "2"
+      },
+      "option_value": "2"
+    }
+  },
+  "birthNation": {
+    "abbreviation": "LY",
+    "name": "Libia",
+    "name_en": "Libyan Arab Jamahiriya",
+    "label": "Libia"
+  },
+  "id": "GUIDO_MALE.json",
+  "fileName": "GUIDO_MALE.json"
+}
