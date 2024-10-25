@@ -2,7 +2,7 @@
     "name": "flowise",
     "version": "2.1.2",
     "private": true,
-    "homepage": "https://flowiseai.com",
+    "homepage": "/flowise",
     "workspaces": [
         "packages/*",
         "flowise",
